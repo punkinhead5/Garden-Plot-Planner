@@ -1,0 +1,19 @@
+
+
+.root
+{
+    -fx-font-size: 12pt;
+    -fx-text-fill: black;
+    -fx-background-color: lightsteelblue;
+    -fx-font-family: papyrus;
+    -fx-text-alignment: center;
+}
+.label
+{
+    -fx-text-alignment: center;
+    -fx-font-family: papyrus;
+    -fx-font-size: 12pt;
+    -fx-font-style: normal;
+    -fx-background-color: lightsteelblue;
+}
+
